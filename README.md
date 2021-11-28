@@ -10,7 +10,7 @@ OS/DB/Tools/ETC
 -Windows 10 64bit / MySQL / Eclipse 
 Language	
 -Java, JSP, html, css, Javascript
-
+ 
 
 메인(사용자)및 전체	
 - HTML/CSS3, JSP 이용하여 메인화면 구성- 메인메뉴에 공지사항과 이미지게시판 최신글을 5개씩 가져오도록 구성
